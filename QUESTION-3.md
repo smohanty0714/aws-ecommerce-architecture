@@ -13,6 +13,7 @@ within Docker containers on a cluster of AWS EC2 instances. In this architecture
 
 1. `Git` : Developer will commit code changes to git and Webhook configured in GitLab triggers the Jenkins job.
 2. `Jenkin Build` : Jenkins job starts executing which results in following steps:
+
     A. Retrieve the microservice/ frontend application artifacts from Gitlab
     
     B. Build the microservice and frontend
