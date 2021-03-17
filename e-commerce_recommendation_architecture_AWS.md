@@ -1,4 +1,4 @@
-#  Question 2: e-commerce recommendation architecture on AWS cloud
+#  e-commerce recommendation architecture on AWS cloud
 ## Introduction
 To offer personalized product recommendations to customers who are browsing your e-commerce site.In order to build such a service, you have to process very large
 amounts of data from multiple data sources. The resulting user profile information has to be available to deliver real-time product recommendations on the e-commerce website.
