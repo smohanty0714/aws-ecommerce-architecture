@@ -1,4 +1,4 @@
-#  Question 1: e-commerce application architecture on AWS cloud
+# e-commerce application architecture on AWS cloud
 ## Introduction
 Maintaining an e-commerce website with a large product catalog and global customer base can be challenging. The catalog should be searchable, and individual product pages should contain a rich information set that includes, for example, images, a PDF manual, and customer reviews.
 
