@@ -1,4 +1,4 @@
-#  Question 3: CI/CD for e-commerce  application in AWS platform
+#  CI/CD for e-commerce  application in AWS platform
 ## Introduction
 
 AWS EC2 Container Service (ECS) is a highly scalable container management service which is used to start, stop and run microservices 
