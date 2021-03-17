@@ -1,4 +1,4 @@
-# Causaly Data Enginnering Assignment
+# AWS Cloud Architecture for e-commerce
 
 Please do find below response links for the assignment solutions.
 
